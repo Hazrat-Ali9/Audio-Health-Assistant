@@ -1,0 +1,10 @@
+streamlit
+speechrecognition
+gtts
+numpy
+pydub
+langdetect
+sounddevice
+soundfile
+pyaudio
+openai
